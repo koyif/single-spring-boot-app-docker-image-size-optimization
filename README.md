@@ -1,0 +1,1 @@
+# single-spring-boot-app-docker-image-size-optimization
